@@ -1,6 +1,6 @@
 # 说明
 ## 环境
-Linux环境：Ubuntu 20.04\
+Linux环境：Ubuntu 20.04
 
 ## 如何使用
 1. Git Clone 本仓库
