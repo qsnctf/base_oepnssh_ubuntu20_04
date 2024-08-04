@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  challenges:
+    build: .
+    image: qsnctf/base_openssh_ubuntu20_04
+    ports:
+      - "2222:22"
+    environment:
+      - FLAG=qsnctf{flag}
